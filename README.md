@@ -1,16 +1,133 @@
-<h1 align="center">Hi 👋, I'm Aryan Raghuvanshi</h1>
-<h3 align="center">Tech enthusiast blending software engineering with data analytics to build scalable, insight-driven solutions. Proficient in Python, SQL, and modern data tools</h3>
+<h1 align="center">Aryan Raghuvanshi</h1>
+<h3 align="center">AI • Data Science • Automation Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanraghuvanshi-31" alt="aryanraghuvanshi-31" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/aryan1331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aryan1331/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dev-portfolio--raghuvanshiary1.replit.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/aryanraghuvanshi31/">LinkedIn</a> •
+  <a href="mailto:raryann31@gmail.com">Email</a> •
+  <a href="https://leetcode.com/">LeetCode</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+Generative+AI;Automation+%7C+Scalable+Systems;Recruiter-Ready+%7C+Production+Experience" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanraghuvanshi-31&show_icons=true&locale=en&layout=compact" alt="aryanraghuvanshi-31" /></p>
+---
 
+## 🔍 Professional Summary
 
+AI-focused Software Engineer with **hands-on production experience** building **data-driven and intelligent systems**.  
+Strong foundation in **Machine Learning, Data Science, Automation, and Generative AI**, with the ability to translate business problems into **scalable technical solutions**.
+
+✔ Production internship experience  
+✔ Hackathon-proven problem solver  
+✔ Strong Python + Data stack  
+
+---
+
+## 🧠 Core AI & Data Skills
+
+### 🤖 Artificial Intelligence & ML
+- Supervised & Unsupervised Learning  
+- Feature Engineering & Model Evaluation  
+- Scikit-learn Pipelines  
+- Data Cleaning & Preprocessing  
+
+### 🧬 Generative AI
+- Prompt Engineering  
+- LLM-based Application Design  
+- Retrieval-Augmented Generation (RAG) concepts  
+
+### 📊 Data Science
+- Exploratory Data Analysis (EDA)  
+- Statistical Insights & Visualization  
+- Business-driven data modeling  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+- Python  
+- SQL | MySQL  
+
+**AI / Data Libraries**  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+
+**Tools & Platforms**  
+- Git & GitHub  
+- Jupyter Notebook  
+- Google Colab  
+- VS Code  
+- IntelliJ IDEA  
+
+**Analytics & BI**  
+- Power BI  
+
+---
+
+## 💼 Industry Experience
+
+**Microsoft Dynamics 365 Developer Intern**  
+**Bitsquad Software | Indore, India**
+
+- Built and tested **production-grade software components**  
+- Worked in **enterprise development workflows**  
+- Collaborated with cross-functional teams to deliver business solutions  
+- Followed clean coding, testing, and deployment standards  
+
+---
+
+## 🏆 Achievements & Credentials
+
+### 🥇 Hackathons
+- **1st Runner-Up** – INNONOVA 2025  
+- **2nd Place** – IBM Day  
+- **Top 4** – AI Impact Competition (AITR)  
+
+### 📜 Certifications
+- Generative AI – Oracle  
+- Cloud Computing – NPTEL  
+- Python for Data Science – Udemy  
+- MySQL  
+
+---
+
+## 🚀 What I’m Looking For
+
+🎯 **Roles:**  
+- AI Engineer  
+- Data Scientist  
+- Machine Learning Engineer  
+- Software Engineer (AI/Data Focus)
+
+💡 **Opportunities involving:**  
+- AI-driven systems  
+- Data-centric decision making  
+- Scalable automation solutions  
+
+---
+
+## 📊 GitHub Signals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanRaghuavnshi31&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanRaghuavnshi31&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRaghuavnshi31&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Contact
+
+📧 **Email:** raryann31@gmail.com  
+🌐 **Portfolio:** https://dev-portfolio--raghuvanshiary1.replit.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/aryanraghuvanshi31/
+
+⭐ *Open to internships, full-time roles, and AI-driven collaborations.*
+P
