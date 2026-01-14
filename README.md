@@ -113,13 +113,14 @@ Strong foundation in **Machine Learning, Data Science, Automation, and Generativ
 ## 📊 GitHub Signals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanRaghuavnshi31&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanRaghuavnshi31&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanRaghuvanshi-31&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanRaghuvanshi-31&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRaghuavnshi31&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRaghuvanshi-31&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
