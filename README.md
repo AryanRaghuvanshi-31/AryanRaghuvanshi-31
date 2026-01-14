@@ -2,7 +2,7 @@
 <h3 align="center">AI • Data Science • Automation Engineer</h3>
 
 <p align="center">
-  <a href="https://dev-portfolio--raghuvanshiary1.replit.app/">Portfolio</a> •
+  <a href="https://dev-portfolio--raghuvanshiary1.replit.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/aryanraghuvanshi31/">LinkedIn</a> •
   <a href="mailto:raryann31@gmail.com">Email</a> •
   <a href="https://leetcode.com/">LeetCode</a>
